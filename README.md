@@ -48,7 +48,7 @@ $ git clone https://github.com/Ppgsquad/Suryasans
 ```
 $ cd Suryasans
 $ git pull
-$ python elite.py
+$ python ppgsquad.py
 ```
 ### ⇨  Informasi
 ```
