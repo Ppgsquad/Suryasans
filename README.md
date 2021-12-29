@@ -31,7 +31,7 @@ $ termux-setup-storage
    • Enter  
    • Ketik y Atau Pilih Izinkan  
 $ termux-change-repo
-   • Pilih Game Repository
+   • Pilih Main Repository
       - Klik OK
    • Pilih Mirror By Grimler
       - Klik OK
