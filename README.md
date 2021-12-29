@@ -1,5 +1,5 @@
 # ✭ ELITE CRACK
-### Dibuat Dengan ❤️ Oleh Dapunta & Rizal
+### Dibuat Dengan ❤️ Oleh Surya Sans
 ```
 Author:
 - Surya Sans
