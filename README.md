@@ -2,8 +2,7 @@
 ### Dibuat Dengan ❤️ Oleh Dapunta & Rizal
 ```
 Author:
-- Dapunta Khurayra X
-- Muhamad Rizal Fiansyah Id
+- Surya Sans
 
 Terimakasih Kepada :
 - Angga Kurniawan - Yayan XD
@@ -42,12 +41,12 @@ $ pip install requests
 $ pip install mechanize
 $ pip install bs4
 $ pip install futures
-$ git clone https://github.com/Dapunta/elite
+$ git clone https://github.com/Ppgsquad/Suryasans
  
 ```
 ### ⇨  Menjalankan Script
 ```
-$ cd elite
+$ cd Suryasans
 $ git pull
 $ python elite.py
 ```
